@@ -1,0 +1,45 @@
+.border {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  padding-left: 90px;
+  margin-top: 150px;
+  background-color: rgb(208, 177, 240);
+}
+h1 {
+  color: rgb(118, 82, 152);
+  text-align: center;
+  padding-top: 0auto;
+  padding-bottom: 40px;
+  padding-right: 80px;
+}
+input {
+  display: inline;
+  width: 220px;
+}
+.emoji {
+  font-size: 80px;
+}
+.emoji2 {
+  font-size: 40px;
+}
+.units {
+  font-size: small;
+}
+button {
+  color: aliceblue;
+  display: inline;
+  background: rgb(134, 209, 153);
+  border: 1px solid rgb(134, 209, 153);
+  padding: 5px 15px;
+  border-radius: 50px;
+}
+button:hover {
+  background: aliceblue;
+  color: rgb(50, 39, 61);
+  cursor: pointer;
+}
+.cityname {
+  border: 0px;
+  padding: 5px 20px;
+}
